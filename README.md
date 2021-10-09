@@ -11,7 +11,7 @@ I'm working on the impact of <b/>different hardware</b> (CPU, GPU, TPU ...) on d
 
 #### Serverless Computing (2020.03.18 ~ 2021.08.19)
 I researched Serverless Computing when I was undergraduate <br/>
-What I published with my professor. <br/>
+I had lucky chance that I published a <b/>Paper</b> with my professor. <br/>
 [Evaluation of Network File System as a Shared Data Storage in Serverless Computing](https://dl.acm.org/doi/10.1145/3429880.3430096)
 
 #### Interested in
