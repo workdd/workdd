@@ -1,7 +1,8 @@
 <p>
- 👋&nbsp; Hi there! I'm Jaeghang Choi. I'm enrolled in the Master of Computer Science in Kookmin University 🚀
+ 👋&nbsp; Hi there! I'm Jaeghang Choi. I'm enrolled in the Master of Computer Science in Kookmin University.
 </p>
-
+🤔
+I was impressed with the painting of the Last Supper and I named <b/>manchann</b>(korean pronunciation of supper) of my nickname.
 
 
 ### My Research History
@@ -10,8 +11,8 @@ I'm working on the impact of <b/>different hardware</b> (CPU, GPU, TPU ...) on d
 [What is Deep Learning Inference?](https://manchann.tistory.com/16) <br/>
 
 #### Serverless Computing (2020.03.18 ~ 2021.08.19)
-I researched Serverless Computing when I was undergraduate <br/>
-I had lucky chance that I published a <b/>Paper</b> with my professor. <br/>
+I researched Serverless Computing when I was undergraduate <br/><br/>
+I had lucky chance that I published a <b/>Paper</b> with my professor about..<br/>
 [Evaluation of Network File System as a Shared Data Storage in Serverless Computing](https://dl.acm.org/doi/10.1145/3429880.3430096)
 
 #### Interested in
@@ -20,8 +21,8 @@ I had lucky chance that I published a <b/>Paper</b> with my professor. <br/>
 
 
 
-### Contact
+### Contact 
 <p>
   <a href="https://manchann.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-003DAD?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="mailto:chl8273@kakao.com" target="_blank"><img src="https://img.shields.io/badge/chl8273@kakao.com-EA4335?style=flat-square&logo=Mail&logoColor=white"/></a>
+  <a href="mailto:chl8273@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/chl8273@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
