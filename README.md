@@ -7,11 +7,11 @@ I was impressed with the painting of the Last Supper and I named <b/>manchann</b
 
 ### My Research History
 #### Deep Learning Inference (2021.08.19 ~ )
-I'm working on the impact of <b/>different hardware</b> (CPU, GPU, TPU ...) on deep learning inference<br/>
+I'm working on the impact of <b/>different hardware</b> (CPU, GPU, TPU ...) on deep learning inference.<br/>
 [What is Deep Learning Inference?](https://manchann.tistory.com/16) <br/>
 
 #### Serverless Computing (2020.03.18 ~ 2021.08.19)
-I researched Serverless Computing when I was undergraduate <br/><br/>
+I researched Serverless Computing when I was undergraduate. <br/><br/>
 I had lucky chance that I published a <b/>Paper</b> with my professor about..<br/>
 [Evaluation of Network File System as a Shared Data Storage in Serverless Computing](https://dl.acm.org/doi/10.1145/3429880.3430096)
 
