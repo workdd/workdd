@@ -2,7 +2,7 @@
  👋&nbsp; Hi there! I'm Jaeghang Choi. I'm enrolled in the <b/>Master of Computer Science</b> in Kookmin University.
 </p>
 🤔
-I was impressed with the painting of the Last Supper and I named <b/>manchann</b>(korean pronunciation of supper) of my nickname.
+I was impressed with the painting of the Last Supper and I named my nickname <b/>manchann</b>(korean pronunciation of supper).
 
 
 ### My Research History
