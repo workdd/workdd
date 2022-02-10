@@ -33,6 +33,7 @@ I'm writing this session...
 - AWS Inferentia
 - AWS Elastic Inference
 - Google Cloud TPU
+- AWS Graviton2 (Arm based HW in AWS)
 
 ### Serverless Architecture
 #### Platform
