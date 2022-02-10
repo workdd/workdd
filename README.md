@@ -34,6 +34,7 @@ I'm writing this session...
 - AWS Inferentia
 - AWS Elastic Inference
 - Google Cloud TPU
+  https://github.com/jaeriver/Google_TPU
 - AWS Graviton2 (Arm based HW in AWS) <br/>
   https://github.com/jaeriver/AWS_Graviton_Performance 
 ### Serverless Architecture
