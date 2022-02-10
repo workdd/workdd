@@ -33,7 +33,7 @@ I'm writing this session...
 #### Cloud Hardware for deep learning
 - AWS Inferentia
 - AWS Elastic Inference
-- Google Cloud TPU
+- Google Cloud TPU <br/>
   https://github.com/jaeriver/Google_TPU
 - AWS Graviton2 (Arm based HW in AWS) <br/>
   https://github.com/jaeriver/AWS_Graviton_Performance 
