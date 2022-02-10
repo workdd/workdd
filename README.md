@@ -2,6 +2,11 @@
  👋&nbsp; Hi there! I'm Jaeghang Choi. I'm enrolled in the <b/>Master of Computer Science</b> in Kookmin University.
 </p>
 
+### Contact 
+<p>
+  <a href="https://manchann.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-003DAD?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="mailto:chl8273@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/chl8273@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ## My Research History
 ### Deep Learning Inference (2021.08.19 ~ )
@@ -29,13 +34,6 @@ I'm writing this session...
 - AWS Elastic Inference
 - Google Cloud TPU
 
-
-
-### Contact 
-<p>
-  <a href="https://manchann.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-003DAD?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="mailto:chl8273@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/chl8273@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
 
 
 ### Interest
