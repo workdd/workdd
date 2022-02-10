@@ -26,7 +26,8 @@ I'm writing this session...
 - Tensorflow, TFLite
 - MXNet
 #### Compiler
-- TVM
+- TVM <br/>
+  https://github.com/jaeriver/TVM_Lambda_Container
 - ONNX <br/>
   https://github.com/jaeriver/Onnx_Serving
 #### Cloud Hardware for deep learning
