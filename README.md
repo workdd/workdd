@@ -44,6 +44,14 @@ I'm writing this session...
 - AWS DynamoDB
 - AWS AuroraDB (MySQL, PostgreSQL)
 - AWS EFS & SQLite with EFS
+
+### Web Frontend
+- Html, CSS, JavaScript
+- Vue.js, React.js
+
+### Web Backend API
+- Django, Nodejs
+
 ### Interest
 - Kubernetes
 - Cloud Archetecture
