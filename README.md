@@ -51,8 +51,3 @@ I'm writing this session...
 
 ### Web Backend API
 - Django, Nodejs
-
-### Interest
-- Kubernetes
-- Cloud Archetecture
-
