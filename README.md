@@ -29,16 +29,21 @@ I'm writing this session...
 - TVM
 - ONNX
 
-#### Cloud Hardware
+#### Cloud Hardware for deep learning
 - AWS Inferentia
 - AWS Elastic Inference
 - Google Cloud TPU
 
 ### Serverless Architecture
+#### Platform
 - AWS Lambda
 - AWS Step Function
 - Azure Function
-
+#### Database for serverless
+- AWS S3
+- AWS DynamoDB
+- AWS AuroraDB (MySQL, PostgreSQL)
+- AWS EFS & SQLite with EFS
 ### Interest
 - Kubernetes
 - Cloud Archetecture
