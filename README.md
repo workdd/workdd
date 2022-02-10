@@ -38,7 +38,7 @@ I'm writing this session...
 #### Platform
 - AWS Lambda
 - AWS Step Function
-- Azure Function
+- MicroSoft Azure Function
 #### Database for serverless
 - AWS S3
 - AWS DynamoDB
