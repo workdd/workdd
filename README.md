@@ -34,7 +34,10 @@ I'm writing this session...
 - AWS Elastic Inference
 - Google Cloud TPU
 
-
+### Serverless Architecture
+- AWS Lambda
+- AWS Step Function
+- Azure Function
 
 ### Interest
 - Kubernetes
