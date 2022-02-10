@@ -27,14 +27,14 @@ I'm writing this session...
 - MXNet
 #### Compiler
 - TVM
-- ONNX
-  * https://github.com/jaeriver/Onnx_Serving
+- ONNX <br/>
+  https://github.com/jaeriver/Onnx_Serving
 #### Cloud Hardware for deep learning
 - AWS Inferentia
 - AWS Elastic Inference
 - Google Cloud TPU
-- AWS Graviton2 (Arm based HW in AWS)
-  * https://github.com/jaeriver/AWS_Graviton_Performance 
+- AWS Graviton2 (Arm based HW in AWS) <br/>
+  https://github.com/jaeriver/AWS_Graviton_Performance 
 ### Serverless Architecture
 #### Platform
 - AWS Lambda
