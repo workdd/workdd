@@ -5,7 +5,7 @@
 ### Contact 
 <p>
   <a href="https://manchann.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-003DAD?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="mailto:chl8273@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/chl8273@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:workd.official@gmail.com" target="_blank"><img src="https://img.shields.io/badge/workd.official@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ## My Research History
