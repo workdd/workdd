@@ -18,7 +18,7 @@ I researched Serverless Computing when I was undergraduate. <br/><br/>
 🍀I published a <b/>Paper</b> with my professor about..<br/>
 [Evaluation of Network File System as a Shared Data Storage in Serverless Computing](https://dl.acm.org/doi/10.1145/3429880.3430096)
 
-## ML Serving System 최신 동향 파악을 위한 논문 세미나
+## ML Serving System 최신 동향 파악을 위한 논문 발표 세미나
 - [Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud](https://docs.google.com/presentation/d/18rqWw-2Z_zLGKfo1OzxPIzqfk0Rg-xEd/edit?usp=sharing&ouid=107371387931093249059&rtpof=true&sd=true)
 - [INFaaS: A Model-less and Managed Inference Serving System](https://docs.google.com/presentation/d/1IO8GxKQBvbc23C5JN_Ia1hYAl-W9BLRq/edit?usp=sharing&ouid=107371387931093249059&rtpof=true&sd=true)
 - [Characterizing the Deep Neural Networks Inference Performance of Mobile Applications](https://docs.google.com/presentation/d/1Jwb78RVbdbcnTdnW7BosBzgFWI9s7r3Z/edit?usp=sharing&ouid=107371387931093249059&rtpof=true&sd=true)
