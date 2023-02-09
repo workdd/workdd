@@ -1,6 +1,6 @@
-<p>
- 👋&nbsp; Hi there! I'm Jaeghang Choi. I'm enrolled in the <b/>Master of Computer Science</b> in Kookmin University.
-</p>
+## Introduction
+안녕하세요 꾸준히 성장하는 개발자가 되고 싶은 최재강입니다.
+
 
 ## Contact 
 - GMail : workd.official@gmail.com
