@@ -8,4 +8,4 @@
 - GMail : workd.official@gmail.com
 - GitHub : https://www.github.com/workdd
 - Tec Blog : https://manchann.tistory.com/
-- LinkedIn : https://www.linkedin.com/in/jaeghang-choi-6737931b1/
+- LinkedIn : https://www.linkedin.com/in/jg-choi/
