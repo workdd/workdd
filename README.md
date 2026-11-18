@@ -9,7 +9,7 @@
 
 참고할만한 논문, 기술 블로그, 오픈소스를 읽고 정리합니다.
 - **주요 주제**: GraphRAG, 지식 그래프, 온톨로지, 에이전트, MCP, LLM 서빙과 추론 최적화
-- **코드 분석 책**: [DeepInfer 해부](https://workdd.github.io/I_AM_ML_Engineer/books/deepinfer/), [LLM Wiki 해부](https://workdd.github.io/I_AM_ML_Engineer/books/llm-wiki/)
+- **WikiDocs**: https://wikidocs.net/book/22135
 
 ## Contact 
 - GMail : workd.official@gmail.com
